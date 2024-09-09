@@ -3,7 +3,7 @@ package windowcachev2
 import (
 	"context"
 	"fmt"
-	"github.com/tangthinker/go-tools/cache/windowcachev2/cacheclient"
+	"github.com/tangthinker/go-tools/cache/on_cache/cacheclient"
 	"time"
 )
 
